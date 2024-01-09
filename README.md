@@ -14,7 +14,7 @@ Cucumber is an Eclipse Java project to test the [Rest API](https://reqres.in/). 
 
 ## Installation
 
-Download the package from [Github]() and unzip it.
+Download the package from [Github](https://github.com/rathorsunpreet/cucumber) and unzip it.
 
 ## Usage
 
