@@ -45,7 +45,7 @@ HTML Reports are generated at the following locations:
 1. Upon individual feature file execution at `\target\cucumber-reports\`.
 2. Upon execution of `testAllHTML` at `\target\cucumber-html-reports\`.
 
-Add executable permissions to `mvnw` before running any of the commands in the **Usage** section.
+When running on Linux / Mac, add executable permissions to `mvnw` before running any of the commands in the **Usage** section.
 
 ## License
 
