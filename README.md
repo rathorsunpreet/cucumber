@@ -30,6 +30,14 @@ java -jar blaze.jar loginHTML
 
 # To generate HTML Report upon execution of all feature files
 java -jar blaze.jar testAllHTML
+
+# To use maven test instead
+# Us mvnw.cmd for Windows, mvnw for Linux and Mac
+mvnwd.cmd test
+
+# To generate HTML Report using Maven
+# Us mvnw.cmd for Windows, mvnw for Linux and Mac
+mvnw.cmd verify
 ```
 
 ## Notes
