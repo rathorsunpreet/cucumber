@@ -12,7 +12,7 @@ String mvnCommand;
 		if (os.contains("windows")) {
 			mvnCommand = "mvnw.cmd";
 		} else {
-			mvnCommand = "bash mvnw";
+			mvnCommand = "./mvnw";
 		}
 	}
 	
