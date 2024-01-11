@@ -2,11 +2,11 @@
 
 Cucumber is an Eclipse Java project to test the [Rest API](https://reqres.in/). The following libraries / frameworks / plugins / tools have been used:
 1. Rest-Assured to ping the API endpoints.
-2. Maven is as the build tool.
+2. Maven as the build tool.
 3. JUnit5 and Cucumber for test-case creation.
 4. Jackson2 (by FasterXML) for serialization of Java Objects to JSON.
-5. Maven Wrapper is to allow non-maven users the ability to build and run the tests. 
-6. Blaze (by Fizzed) is to remove the long commands and shorten them for ease of use.
+5. Maven Wrapper to allow non-maven users the ability to build and run the tests. 
+6. Blaze (by Fizzed) to remove the long commands and shorten them for ease of use.
 7. maven-cucumber-reporting (by net.masterthought) for HTML Report generation upon execution of `testAllHTML`.
 
 ## Requirements
