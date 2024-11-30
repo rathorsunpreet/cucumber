@@ -8,8 +8,11 @@ Cucumber is an Eclipse Java project to test the [Rest API](https://reqres.in/). 
 5. Blaze (by Fizzed) to remove the long commands and shorten them for ease of use.
 6. maven-cucumber-reporting (by net.masterthought) for HTML Report generation upon execution of `testAllHTML`.
 
+Demo / Explanation Video: https://www.youtube.com/watch?v=qw16KlvStXs
+
 ## Requirements
-* Java 21
+* Java 21+
+* Eclipse (Optional)
 
 ## Installation
 
